@@ -1,4 +1,4 @@
-# Hi there, I'm Omkar Patel! 👋
+# Hi there, I'm Omkar Policepatel! 👋
 
 I'm a DevOps Engineer with 3 years of experience in automating, scaling, and optimizing infrastructure. My expertise lies in implementing CI/CD pipelines, managing cloud environments, and ensuring seamless deployment processes. I have a strong background in Jenkins and a passion for automating projects to enhance efficiency and reliability.
 
