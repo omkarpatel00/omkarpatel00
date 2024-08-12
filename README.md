@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Omkar Patel! 👋
 
-<!--
-**omkarpatel00/omkarpatel00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a DevOps Engineer with 3 years of experience in building, automating, and optimizing infrastructure for scalable and secure applications. I am passionate about streamlining workflows and enhancing productivity through automation.
 
-Here are some ideas to get you started:
+### 🚀 Skills & Tools:
+- **CI/CD**: Jenkins, GitHub Actions
+- **Cloud**: AWS, GCP
+- **Containers**: Docker, Kubernetes
+- **Infrastructure as Code**: Terraform, Ansible
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Version Control**: Git, GitHub, GitLab
+- **Scripting**: Bash, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning:
+- Serverless architecture
+- Advanced Kubernetes practices
+
+### 📫 Let's Connect:
+- **GitHub**: [@omkarpatel00](https://github.com/omkarpatel00)
+- **LinkedIn**: [Omkar Patel](https://www.linkedin.com/in/omkarpatel00)
+
+### 📈 GitHub Stats:
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarpatel00&show_icons=true&theme=radical)
+
