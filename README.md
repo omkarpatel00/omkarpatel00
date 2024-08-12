@@ -17,7 +17,7 @@ I am a DevOps Engineer with 3 years of experience in building, automating, and o
 
 ### 📫 Let's Connect:
 - **GitHub**: [@omkarpatel00](https://github.com/omkarpatel00)
-- **LinkedIn**: [Omkar Patel](https://www.linkedin.com/in/omkarpatel00)
+- **LinkedIn**: [Omkar Patel](https://www.linkedin.com/in/omkar-patel-op/)
 
 ### 📈 GitHub Stats:
 ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarpatel00&show_icons=true&theme=radical)
